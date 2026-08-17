@@ -8,3 +8,6 @@ torch
 jupyter
 tqdm
 requests
+matplotlib
+pandas
+pillow
