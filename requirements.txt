@@ -11,3 +11,7 @@ requests
 matplotlib
 pandas
 pillow
+evaluate
+rouge-score
+sacrebleu
+mlflow
