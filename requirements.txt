@@ -1,0 +1,10 @@
+nltk
+spacy
+transformers
+datasets
+opencv-python
+torchvision
+torch
+jupyter
+tqdm
+requests
