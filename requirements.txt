@@ -11,11 +11,11 @@ requests
 matplotlib
 pandas
 pillow
+numpy
+scikit-image
 evaluate
 rouge-score
 sacrebleu
 mlflow
-captum
 shap
 lime
-transformers-interpret
