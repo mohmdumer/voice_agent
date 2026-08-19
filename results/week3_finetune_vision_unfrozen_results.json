@@ -1,0 +1,26 @@
+{
+  "D_unfrozen2_3ep_greedy": {
+    "lr": 5e-05,
+    "decoding": "greedy",
+    "unfrozen_vision_layers": 2,
+    "epochs": 3,
+    "final_train_loss": 0.850211,
+    "train_time_s": 994.37817,
+    "bleu": 23.430815,
+    "rouge1": 53.657162,
+    "rouge2": 29.464269,
+    "rougeL": 50.568641
+  },
+  "E_unfrozen2_3ep_beam": {
+    "lr": 5e-05,
+    "decoding": "beam",
+    "unfrozen_vision_layers": 2,
+    "epochs": 3,
+    "final_train_loss": 0.850211,
+    "train_time_s": 994.37817,
+    "bleu": 24.563742,
+    "rouge1": 54.119342,
+    "rouge2": 29.249703,
+    "rougeL": 50.930024
+  }
+}
